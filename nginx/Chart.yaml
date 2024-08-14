@@ -1,0 +1,4 @@
+apiVersion: v1
+name: nginx #helm chart name
+version: 0.0.1 #helm chart version
+description: this is the helm implementation of nginx
